@@ -25,5 +25,6 @@ public class PassingGradeSMK79 {
         System.out.println("Apakah memnuhi syarat untuk masuk ke SMK 79 ? "+Hasil);
         System.out.println("Apakah memnuhi syarat untuk masuk ke Jurusan Sastra ? "+sastra);
         System.out.println("Apakah memnuhi syarat untuk masuk ke Jurusan Teknik Komputer Jaringan ? "+TKJ);
+        scan.close();
     }
 }

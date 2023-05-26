@@ -30,5 +30,6 @@ public class CalculateMonetSpent {
         System.out.println("Hallo "+name);
         System.out.println("Total pengeluaran pada minggu ini yaitu "+moneySpent);
         System.out.println("Dengan rata rata setiap harinya yaitu "+moneySpent/7);
+        scan.close();
     }
 }
