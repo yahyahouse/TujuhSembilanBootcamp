@@ -77,7 +77,7 @@ public class PermainanDadu {
 
     }
     public static void animateLoading() {
-        String animationChars = "|/-\\";
+        String animationChars = "(/)\\";
 
         for (int i = 0; i < 10; i++) {
             System.out.print("Loading " + animationChars.charAt(i % animationChars.length()) + " ");
