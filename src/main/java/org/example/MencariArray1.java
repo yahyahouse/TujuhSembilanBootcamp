@@ -1,12 +1,11 @@
 package org.example;
 
-import java.lang.reflect.Array;
 import java.util.Scanner;
 
-public class MencariArray {
+public class MencariArray1 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        System.out.println("masukan angka");
+        System.out.println("masukan angka yang di cari");
         Integer input = scan.nextInt();
         Integer total = 0;
         Integer[] angka = {3,2,5,11,7,10,11,3,15,11,17,10,5};
