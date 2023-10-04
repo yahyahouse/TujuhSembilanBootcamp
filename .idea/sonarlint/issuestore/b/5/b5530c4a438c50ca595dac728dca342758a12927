@@ -1,0 +1,30 @@
+
+|
+java:S1192 "fDefine a constant instead of duplicating this literal ".
+Anda Tidak memenuhi syarat sebagai " 3 times.(Ò¯·
+e
+java:S1192"JDefine a constant instead of duplicating this literal "Selamat, " 7 times.(ÆÑøıÿÿÿÿ
+\
+java:S1192 "FDefine a constant instead of duplicating this literal "Maaf," 3 times.(Ò¯·
+{
+java:S1192"`Define a constant instead of duplicating this literal ".
+Anda memenuhi syarat sebagai " 5 times.(ÆÑøıÿÿÿÿ
+‚
+java:S1192"gDefine a constant instead of duplicating this literal ". Dan akan masuk ke Tahap Selanjutnya." 7 times.(ÆÑøıÿÿÿÿ
+ƒ
+java:S1192 "mDefine a constant instead of duplicating this literal ". Dan Tidak akan masuk ke Tahap Selanjutnya." 3 times.(Ò¯·
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Çµí‘
+O
+java:S1854"9Remove this useless assignment to local variable "hasil".(ÀÃ”•
+@	java:S106	"+Replace this use of System.out by a logger.(ö€¶É
+@	java:S106"+Replace this use of System.out by a logger.(ßõÆ÷
+E	java:S106"+Replace this use of System.out by a logger.(…íášıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Â¹Îïşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(şÿ‹‘şÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(¿ßŒ
+E	java:S106"+Replace this use of System.out by a logger.(©ôó‚ıÿÿÿÿ
+E	java:S106<"+Replace this use of System.out by a logger.(ôÆõÍúÿÿÿÿ
+E	java:S106>"+Replace this use of System.out by a logger.(ÍÙª—üÿÿÿÿ
+@	java:S106?"+Replace this use of System.out by a logger.(®ü‹¤
+@	java:S106@"+Replace this use of System.out by a logger.(¼ú©¦

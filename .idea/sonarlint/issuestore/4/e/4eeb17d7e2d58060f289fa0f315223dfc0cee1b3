@@ -1,0 +1,21 @@
+
+„
+java:S1192"iDefine a constant instead of duplicating this literal "Maaf, kamu tidak bisa memesan pada hari " 6 times.(²Şø‘ÿÿÿÿÿ
+…
+java:S1192"jDefine a constant instead of duplicating this literal "Pemesanan berhasil, kamu memesan di hari " 7 times.(ú®¥Àùÿÿÿÿ
+b
+java:S1192&"GDefine a constant instead of duplicating this literal "wanita" 3 times.(¬×šİşÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(Çµí‘
+@	java:S106
+"+Replace this use of System.out by a logger.(í°
+@	java:S106"+Replace this use of System.out by a logger.(ÇÃ¹ø
+?	java:S106"+Replace this use of System.out by a logger.(ÙÊäF
+E	java:S106"+Replace this use of System.out by a logger.(ÊêÅ®üÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ï°ÏÍ
+E	java:S106"+Replace this use of System.out by a logger.(‹¿±ûÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(„—ïâ
+@	java:S106C"+Replace this use of System.out by a logger.(Ô‰×
+E	java:S106D"+Replace this use of System.out by a logger.(Ë¶åÀûÿÿÿÿ
+E	java:S106E"+Replace this use of System.out by a logger.(êóÍ¢ÿÿÿÿÿ
+E	java:S106F"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ

@@ -1,0 +1,11 @@
+
+|
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(–“ñğ8Õ˜¾©¦1
+
+java:S1149	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‹Ò¼¡úÿÿÿÿ8Õ˜¾©¦1
+F	java:S106
+"+Replace this use of System.out by a logger.(œ™À8Ù˜¾©¦1
+H
+java:S1128"+Remove this unused import 'java.sql.Array'.(Õø‹ù8¶ Á©¦1
+C
+java:S1128"&Remove this unused import 'java.math'.(âî©8¶ Á©¦1

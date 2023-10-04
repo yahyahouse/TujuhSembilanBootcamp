@@ -1,7 +1,13 @@
 package org.example;
 
+import java.sql.Array;
+import java.math.*;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        StringBuffer s1 = new StringBuffer("Quiz");
+        StringBuffer s2 = s1.reverse();
+        System.out.println(s2);
+
     }
 }
