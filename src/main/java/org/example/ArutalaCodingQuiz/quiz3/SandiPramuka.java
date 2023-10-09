@@ -1,4 +1,4 @@
-package org.example.ArutalaCodingQuiz.Quiz3;
+package org.example.ArutalaCodingQuiz.quiz3;
 
 import java.util.Scanner;
 

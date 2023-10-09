@@ -55,3 +55,13 @@ q
 Asrc/main/java/org/example/ArutalaCodingQuiz/Quiz1/AgenTravel.java,4\9\496a2dd2f18013c7aef6069715f81ed4370b8dba
 s
 Csrc/main/java/org/example/ArutalaCodingQuiz/Quiz3/SandiPramuka.java,a\a\aab6c38e3b6ce6bea24c7c196cea0ddf0807ed11
+s
+Csrc/main/java/org/example/ArutalaCodingQuiz/quiz4/RomawiNumber.java,f\2\f258ccfa264acdd0a63cd3f1d369d6c753828ade
+t
+Dsrc/main/java/org/example/ArutalaCodingQuiz/quiz4/KonversiWaktu.java,e\6\e6e6f3ada426d3c80ff4d8eaee66cfa768c64393
+s
+Csrc/main/java/org/example/ArutalaCodingQuiz/quiz5/GajiKaryawan.java,c\1\c1d65fc337cbf907df66510294cdb3e8dd2c2ca5
+u
+Esrc/main/java/org/example/ArutalaCodingQuiz/quiz6/SistemKeamanan.java,d\f\dfb292a93fe25a4b3534269763ab011536f63f02
+y
+Isrc/main/java/org/example/ArutalaCodingQuiz/quiz6/KarakteristikHewan.java,c\c\cc341f5677a98cdd11f1e4551a0261000fb981e6

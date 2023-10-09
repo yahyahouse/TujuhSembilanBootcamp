@@ -1,4 +1,4 @@
-package org.example.ArutalaCodingQuiz.Quiz1;
+package org.example.ArutalaCodingQuiz.quiz1;
 
 import java.util.ArrayList;
 import java.util.List;
