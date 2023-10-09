@@ -28,6 +28,7 @@ public class HitungIpkDanYudisium {
 
         for (int i = 0; i < arrNamaModule.length; i++) {
             arrNamaModule[i] = input.next();
+            input.nextLine();
             arrSks[i] = input.nextInt();
             arrHarkat[i] = input.next();
             arrScore[i] = convertHarkat(arrHarkat[i]) * arrSks[i];

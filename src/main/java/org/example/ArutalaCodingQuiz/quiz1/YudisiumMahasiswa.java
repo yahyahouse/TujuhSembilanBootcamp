@@ -23,31 +23,31 @@ public class YudisiumMahasiswa {
     public static String menentukanYudisium(char[] nilaiMataKuliah) {
         double nilaiIPK = menghitungIPK(nilaiMataKuliah);
         String hasilYudisium;
-        if (nilaiIPK >= 3.5) {
-            hasilYudisium = "Cum Laude";
-        } else if (nilaiIPK < 3.5 && nilaiIPK >= 2.75) {
-            hasilYudisium = "Sangat Memuaskan";
-        } else if (nilaiIPK < 2.75 && nilaiIPK >= 2.0) {
-            hasilYudisium = "Memuaskan";
-        } else {
+        if (nilaiIPK < 2.0 || nilaiIPK == 0) {
             hasilYudisium = "Pending";
+        } else if (nilaiIPK >= 3.5) {
+            hasilYudisium = "Cum Laude";
+        } else if (nilaiIPK >= 2.75) {
+            hasilYudisium = "Sangat Memuaskan";
+        } else {
+            hasilYudisium = "Memuaskan";
         }
         return hasilYudisium;
     }
 
     public static double menghitungIPK(char[] nilaiMataKuliah) {
-        int nilaiDalamAngka = 0;
-        for (int i = 0; i < nilaiMataKuliah.length; i++) {
-            if (nilaiMataKuliah[i] == 'A') {
-                nilaiDalamAngka += 4;
-            } else if (nilaiMataKuliah[i] == 'B') {
-                nilaiDalamAngka += 3;
-            } else if (nilaiMataKuliah[i] == 'C') {
-                nilaiDalamAngka += 2;
-            } else if (nilaiMataKuliah[i] == 'D') {
-                nilaiDalamAngka += 1;
-            } else if (nilaiMataKuliah[i] == 'E') {
-                nilaiDalamAngka += 0;
+        double nilaiDalamAngka = 0;
+        for (char c : nilaiMataKuliah) {
+            if (c == 'A') {
+                nilaiDalamAngka += 4.0;
+            } else if (c == 'B') {
+                nilaiDalamAngka += 3.0;
+            } else if (c == 'C') {
+                nilaiDalamAngka += 2.0;
+            } else if (c == 'D') {
+                nilaiDalamAngka += 1.0;
+            } else if (c == 'E') {
+                return 0;
             }
         }
         return nilaiDalamAngka / nilaiMataKuliah.length;

@@ -54,24 +54,22 @@ public class TourDestination {
         String[] destinations = {"Singapura", "Bangkok", "Lombok", "Tokyo"};
         double[] totalCosts = {singapuraTotalCost, bangkokTotalCost, lombokTotalCost, tokyoTotalCost};
 
-        int tempCostDifference= Integer.MAX_VALUE;
+        int tempCostDifference = Integer.MAX_VALUE;
         int totalBudget = 0;
-        
+
         for (int i = 0; i < destinations.length; i++) {
             double costDifference = Math.abs(totalCosts[i] - budget);
             if (costDifference < tempCostDifference) {
                 recommendedDestination = destinations[i];
                 tempCostDifference = (int) costDifference;
-                totalBudget= (int) totalCosts[i];
+                totalBudget = (int) totalCosts[i];
             }
         }
 
-        if (!recommendedDestination.isEmpty()) {
-            System.out.println(recommendedDestination + " " + totalBudget);
+        if (!recommendedDestination.isEmpty() && totalBudget <= budget) {
+            System.out.print(recommendedDestination + " " + totalBudget);
         } else {
-            System.out.println("Need more budget");
+            System.out.print("Need more budget");
         }
     }
-
-
 }
