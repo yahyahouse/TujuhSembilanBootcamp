@@ -1,5 +1,0 @@
-
-8
-java:S1643#"Use a StringBuilder instead.(ºÜ¸8Ëäå«°1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğùâı8ÜÛ«°1
-L	java:S106"+Replace this use of System.out by a logger.(¹‘½’øÿÿÿÿ8Ú“Û«°1

@@ -1,24 +1,0 @@
-
-A
-java:S1659
-"&Declare "totalDay" on a separate line.(‰Í›ûúÿÿÿÿ
-G
-java:S1481	",Remove this unused "average" local variable.(†¬Ô‘ÿÿÿÿÿ
-E
-java:S1481
-"*Remove this unused "total" local variable.(‰Í›ûúÿÿÿÿ
-H
-java:S1481
-"-Remove this unused "totalDay" local variable.(‰Í›ûúÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(Á½é„ıÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(ÎÛÚ—
-E	java:S106"+Replace this use of System.out by a logger.(Œ±¸ıÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(¶’‰¹øÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(“‡ğÖ
-E	java:S106"+Replace this use of System.out by a logger.(áë×Áøÿÿÿÿ
-?	java:S106"+Replace this use of System.out by a logger.(¸Ë•N
-E	java:S106"+Replace this use of System.out by a logger.(‹âÌ»ıÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(åĞÑøÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(øÚäÌşÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(ÿÉ³¨ıÿÿÿÿ
-E	java:S106 "+Replace this use of System.out by a logger.(³°í“ÿÿÿÿÿ

@@ -1,8 +1,0 @@
-
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷ô×‰8²ïÍà¯1
-R
-java:S1172"0Remove this unused method parameter "missCount".(¾·Âùıÿÿÿÿ8¼ïÍà¯1
-Q
-java:S11723"4Remove this unused method parameter "totalMaxScore".(¢æØÄ8¼ïÍà¯1
-L	java:S1064"+Replace this use of System.out by a logger.(Üâ›Äùÿÿÿÿ8¼ïÍà¯1
-L	java:S1065"+Replace this use of System.out by a logger.(è¨¬ûÿÿÿÿ8½ïÍà¯1

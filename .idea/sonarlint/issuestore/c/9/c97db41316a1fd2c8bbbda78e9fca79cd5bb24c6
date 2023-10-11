@@ -1,0 +1,8 @@
+
+t
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(ì•Ö 
+C
+java:S5411"(Use a primitive boolean expression here.(û÷š¨üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(þ•ùîùÿÿÿÿ
+?	java:S106
+"+Replace this use of System.out by a logger.(ì„“
