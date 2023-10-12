@@ -60,6 +60,7 @@ public class GajiPNSYahyaW {
         } catch (Exception e) {
             //error message
             System.err.println(Arrays.toString(e.getStackTrace()));
+            System.err.println(e.getMessage());
         }
     }
 
