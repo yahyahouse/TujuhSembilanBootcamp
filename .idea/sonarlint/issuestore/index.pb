@@ -103,3 +103,7 @@ Jsrc/main/java/org/example/arutala/logicc/quiz/Quiz4/ParkirMalamMinggu.java,c\9
 Lsrc/main/java/org/example/arutala/endurance/challenge/ParkirMalamMinggu.java,5\0\500bd070679b8d4dbbd44687b3b7e96e712f9382
 
 Osrc/main/java/org/example/arutala/endurance/challenge/PerbandinganTigaBola.java,9\9\99b3bd9b8ce852a9913421293289daf1d6ad1a3a
+`
+0src/main/java/org/example/learning/FIzzBuzz.java,d\f\df0fd0b14201ec5cf4e5d557c3af00d0303d8764
+h
+8src/main/java/org/example/finall/quiz/GajiPNSYahyaW.java,c\0\c09750d31418a522d209710262d678a008a94e42
