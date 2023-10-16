@@ -1,0 +1,41 @@
+
+u
+java:S1192b"SDefine a constant instead of duplicating this literal "| %-23s | %-14s |
+" 3 times.(Ù‰€¼üÿÿÿÿ8µ«–²1
+d
+java:S1192˜"FDefine a constant instead of duplicating this literal "Kawin" 4 times.(àç½ 8Žµ«–²1
+Š
+java:S1192a"mDefine a constant instead of duplicating this literal "+-------------------------+----------------+" 3 times.(ÃÆÎ‡8Žµ«–²1
+n	java:S117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èû›±8µ«–²1
+n	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Ôç˜8‘µ«–²1
+s	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¯ß«þÿÿÿÿ8‘µ«–²1
+s	java:S117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î´¯ôúÿÿÿÿ8‘µ«–²1
+n	java:S117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍÂ½À8‘µ«–²1
+s	java:S117ð"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÒÿüÿÿÿÿ8’µ«–²1
+n	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¹™ú8’µ«–²1
+n	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»³Æ€8’µ«–²1
+‚
+java:S1488ò"dImmediately return this expression instead of assigning it to the temporary variable "PPh21Sebulan".(»³Æ€8“µ«–²1
+^	java:S107C"=Method has 11 parameters, which is greater than 7 authorized.(²²—ùÿÿÿÿ8Ñ¹«–²1
+G	java:S106"+Replace this use of System.out by a logger.(×Ó¹×8Ü¹«–²1
+G	java:S106"+Replace this use of System.out by a logger.(é¾¾8Þ¹«–²1
+G	java:S106"+Replace this use of System.out by a logger.(¶ªó˜8á¹«–²1
+G	java:S106"+Replace this use of System.out by a logger.(•˜‘8ã¹«–²1
+G	java:S106#"+Replace this use of System.out by a logger.(þª‘¹8å¹«–²1
+G	java:S106&"+Replace this use of System.out by a logger.(”Œ©¤8ç¹«–²1
+G	java:S106>"+Replace this use of System.err by a logger.(×¼ñÓ8”º«–²1
+L	java:S106?"+Replace this use of System.err by a logger.(ïù¯¯ûÿÿÿÿ8–º«–²1
+G	java:S106a"+Replace this use of System.out by a logger.(ÃÆÎ‡8¶º«–²1
+s
+java:S3457b"Q%n should be used in place of \n to produce the platform-specific line separator.(Ù‰€¼üÿÿÿÿ8·º«–²1
+L	java:S106b"+Replace this use of System.out by a logger.(Ù‰€¼üÿÿÿÿ8·º«–²1
+G	java:S106c"+Replace this use of System.out by a logger.(ÃÆÎ‡8¸º«–²1
+s
+java:S3457d"Q%n should be used in place of \n to produce the platform-specific line separator.(ºŽËÞùÿÿÿÿ8¹º«–²1
+L	java:S106d"+Replace this use of System.out by a logger.(ºŽËÞùÿÿÿÿ8¹º«–²1
+n
+java:S3457i"Q%n should be used in place of \n to produce the platform-specific line separator.(Ž¦ž‚8ºº«–²1
+G	java:S106i"+Replace this use of System.out by a logger.(Ž¦ž‚8ºº«–²1
+G	java:S106k"+Replace this use of System.out by a logger.(ÃÆÎ‡8¼º«–²1
+u
+java:S3776”"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(éÞúæøÿÿÿÿ8þº«–²1

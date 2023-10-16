@@ -1,4 +1,4 @@
-package org.example.finall.quiz;
+package org.example.arutala.finall.quiz;
 
 /*
  * Created By : Yahya Wijaya
