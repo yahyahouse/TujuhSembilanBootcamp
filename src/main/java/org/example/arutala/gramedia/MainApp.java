@@ -7,7 +7,7 @@ import org.example.arutala.gramedia.model.penulis.Author;
 import org.example.arutala.gramedia.model.penulis.DataPenulis;
 import org.example.arutala.gramedia.model.penulis.Mangaka;
 import org.example.arutala.gramedia.model.penulis.Novelis;
-import org.example.arutala.gramedia.service.RepositoryBookImpl;
+import org.example.arutala.gramedia.service.BookServiceImpl;
 
 import java.util.List;
 import java.util.Scanner;
@@ -46,7 +46,7 @@ public class MainApp {
 
     private static void handleBookMenu() {
         Scanner scanner = new Scanner(System.in);
-        RepositoryBookImpl repositoryBook = new RepositoryBookImpl();
+        BookServiceImpl repositoryBook = new BookServiceImpl();
         Book expensiveBook = repositoryBook.getBookByMostExpensive();
         Book cheapestBook = repositoryBook.getBookBycheapest();
         Book expensiveComic = repositoryBook.getComicByExpensivePrice();
@@ -148,7 +148,7 @@ public class MainApp {
     }
 
     private static void handleAuthorMenu() {
-        RepositoryBookImpl repositoryBook = new RepositoryBookImpl();
+        BookServiceImpl repositoryBook = new BookServiceImpl();
 
         Scanner scanner = new Scanner(System.in);
         while (true) {
@@ -225,7 +225,7 @@ public class MainApp {
     }
 
     private static void handlePublisherMenu() {
-        RepositoryBookImpl repositoryBook = new RepositoryBookImpl();
+        BookServiceImpl repositoryBook = new BookServiceImpl();
         Publisher highestCostPublisher = repositoryBook.getProductionCostMax();
         Publisher lowCostPublisher = repositoryBook.getProductionCostMin();
         Scanner scanner = new Scanner(System.in);

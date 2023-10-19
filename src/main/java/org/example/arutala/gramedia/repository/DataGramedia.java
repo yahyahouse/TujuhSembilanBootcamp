@@ -1,5 +1,6 @@
-package org.example.arutala.gramedia.model;
+package org.example.arutala.gramedia.repository;
 
+import org.example.arutala.gramedia.model.Publisher;
 import org.example.arutala.gramedia.model.buku.Book;
 import org.example.arutala.gramedia.model.buku.EBook;
 import org.example.arutala.gramedia.model.buku.Comic;

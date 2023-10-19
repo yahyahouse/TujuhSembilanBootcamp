@@ -1,7 +1,7 @@
 package org.example.arutala.gramedia.service;
 
 import org.example.arutala.gramedia.model.CommercialBook;
-import org.example.arutala.gramedia.model.DataGramedia;
+import org.example.arutala.gramedia.repository.DataGramedia;
 import org.example.arutala.gramedia.model.Publisher;
 import org.example.arutala.gramedia.model.buku.Book;
 import org.example.arutala.gramedia.model.buku.Comic;
@@ -17,7 +17,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class RepositoryBookImpl implements RepositoryBook {
+public class BookServiceImpl implements BookService {
     private DataGramedia dataGramedia = new DataGramedia();
 
     @Override

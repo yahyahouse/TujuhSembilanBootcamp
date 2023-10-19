@@ -11,7 +11,7 @@ import org.example.arutala.gramedia.model.penulis.Novelis;
 
 import java.util.List;
 
-public interface RepositoryBook {
+public interface BookService {
 
     List<CommercialBook> getAllBook();
 
