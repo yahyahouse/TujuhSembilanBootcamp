@@ -1,0 +1,14 @@
+
+—
+java:S1130"{Remove the declaration of thrown exception 'javax.xml.bind.ValidationException', as it cannot be thrown from method's body.(»¥8îõÊ´1
+p
+java:S1128"NRemove this unused import 'org.example.arutala.rental.buku.model.BookForLoan'.(ÉÍóõûÿÿÿÿ8ŒÿÇ´1
+r
+java:S1128"PRemove this unused import 'org.example.arutala.rental.buku.model.LoanBookOrder'.(ö“‘¹ùÿÿÿÿ8ŒÿÇ´1
+
+java:S1128"]Remove this unused import 'org.example.arutala.rental.buku.repository.BookForLoanRepository'.(ìö²Œıÿÿÿÿ8ŒÿÇ´1
+x
+java:S1128"[Remove this unused import 'org.example.arutala.rental.buku.repository.LoanOrderRepository'.(ÍØà¼8ŒÿÇ´1
+M
+java:S1128
+"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ŒÿÇ´1

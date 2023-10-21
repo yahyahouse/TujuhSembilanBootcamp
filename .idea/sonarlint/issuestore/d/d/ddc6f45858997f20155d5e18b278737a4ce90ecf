@@ -1,8 +1,9 @@
 
 n
-java:S1192&"QDefine a constant instead of duplicating this literal "Masashi Kisimoto" 3 times.(ìÍ´8ÆëÄ¢´1
+java:S1192"QDefine a constant instead of duplicating this literal "Masashi Kisimoto" 3 times.(ìÍ´8ÆëÄ¢´1
 n
-java:S1192/"LDefine a constant instead of duplicating this literal "J.K Rowling" 3 times.(öïøÎüÿÿÿÿ8ÆëÄ¢´1
+java:S1192!"LDefine a constant instead of duplicating this literal "J.K Rowling" 3 times.(öïøÎüÿÿÿÿ8ÆëÄ¢´1
 e
-java:S1192&"HDefine a constant instead of duplicating this literal "Shounen" 3 times.(ìÍ´8ÆëÄ¢´1
-L	java:S106"+Replace this use of System.out by a logger.(‚ÿŠøÿÿÿÿ8ĞëÄ¢´1
+java:S1192"HDefine a constant instead of duplicating this literal "Shounen" 3 times.(ìÍ´8ÆëÄ¢´1
+h
+java:S1128	"FRemove this unused import 'java.util.concurrent.atomic.AtomicInteger'.(¿êäœøÿÿÿÿ8Ì—ƒ¸´1

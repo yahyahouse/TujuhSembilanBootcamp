@@ -163,8 +163,6 @@ Hsrc/main/java/org/example/arutala/rental/buku/service/MemberService.java,a\8\a
 Ssrc/main/java/org/example/arutala/rental/buku/repository/BookForLoanRepository.java,d\d\ddc6f45858997f20155d5e18b278737a4ce90ecf
 ~
 Nsrc/main/java/org/example/arutala/rental/buku/repository/MemberRepository.java,a\f\afc6dfc78a32e689425a530ed380834005899e58
-€
-Psrc/main/java/org/example/arutala/rental/buku/controller/LoanBookController.java,f\0\f08ce336795d69f9f7a0250916d48602ff763c9d
 j
 :src/main/java/org/example/arutala/rental/buku/MainApp.java,d\6\d620f85a8694ec75cff2d257f88f6a55392c25af
 t
@@ -181,3 +179,9 @@ n
 >src/main/java/org/example/arutala/rental/buku/model/Novel.java,d\2\d23d1c9e33e08e0a290934d37048d5253cae4a60
 o
 ?src/main/java/org/example/arutala/rental/buku/model/Member.java,b\8\b83f2b41297a70fcafcfc7e647acdaee5f7ee8e3
+|
+Lsrc/main/java/org/example/arutala/rental/buku/controller/MenuController.java,1\c\1cbf4fb8079bc742d2cde9d1a4aa3c2da29845df
+v
+Fsrc/main/java/org/example/arutala/rental/buku/model/LoanInterface.java,1\f\1f7b23efc20996f4796e52c09c19c2086aaae933
+|
+Lsrc/main/java/org/example/arutala/rental/buku/service/ValidationService.java,4\8\4858415f6d0bab97d0fc0694ecd658ad6054e981
