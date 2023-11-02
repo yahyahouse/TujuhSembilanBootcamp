@@ -2,5 +2,3 @@
 @	java:S106"+Replace this use of System.out by a logger.(Äç¿½
 h
 java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(­…šå
-Q	java:S1258"<This block of commented-out lines of code should be removed.(Ô¶©Î
-Q	java:S125;"<This block of commented-out lines of code should be removed.(¼¿‚Û

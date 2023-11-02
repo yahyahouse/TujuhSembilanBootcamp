@@ -53,11 +53,8 @@ public class KeluargaMenabung {
 
     public static int menghitungHasilTabungan(int jumlahKeluarga, int jumlahHari) {
         int totalTabungan = 0;
-//        int tabunganPertama = 1000;
-//        int perbedaanSetiapHarinya = 1000;
         for (int i = 1; i <= jumlahHari; i++) {
-//        totalTabungan = (jumlahHari / 2) * (2 * tabunganPertama + (jumlahHari - 1) * perbedaanSetiapHarinya) * jumlahKeluarga;
-        totalTabungan += i*1000*jumlahKeluarga;
+            totalTabungan += i * 1000 * jumlahKeluarga;
         }
         return totalTabungan;
     }
