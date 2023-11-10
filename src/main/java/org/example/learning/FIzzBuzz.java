@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class FIzzBuzz {
     public static void main(String[] args) {
-        int angka[] = new int[15];
+        int[] angka = new int[15];
         int nomer = 1;
         for (int i = 0; i < angka.length; i++) {
             angka[i] = nomer;
